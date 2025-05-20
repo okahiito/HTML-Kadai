@@ -6,7 +6,7 @@
 
 1. https://github.com/daichi-tokunaga/HTML-Kadai/fork にアクセス
 
-1. Ownerが自分のアカウント、Repository nameがkadai-appになっていることを確認
+1. Ownerが自分のアカウント、Repository nameがHTML-Kadaiになっていることを確認
 
 1. 画面下のCreate fork(緑のボタン)を押下
 
