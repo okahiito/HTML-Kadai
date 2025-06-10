@@ -2,23 +2,28 @@
 
 body {
   background-color: hsl(210, 40%, 10%);
+ 
 }
 
 /** ヘッダー */
 
-.header__container {
+.header__container { 
+  background-color: hsl(210, 40%, 10%);
+  padding: 10px;
+  display: flex;
+ justify-content: space-between;
+ 
 }
 
 .header__nav {
-  color: darkgreen;
   width: 400px;
-  margin-left: 550px;
   display: flex;
   justify-content: flex-end;
+  justify-content: space-around;
+ 
 }
 
-.nav-item {
-}
+.nav-item {}
 
 /* メンバー */
 .member-section .members {
